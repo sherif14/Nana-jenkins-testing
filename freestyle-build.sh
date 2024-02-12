@@ -1,1 +1,1 @@
-sudo apt update
+apt update
